@@ -1,4 +1,6 @@
 # Note-App
+A MERN stack web app for seamless note management with real-time sync. Users can create, read, update, and delete notes, with changes instantly saved in MongoDB. Secure authentication ensures data privacy.
+
 Installation Steps:
 
 PS D:\Coding\Web Dev> npm create vite@latest
@@ -35,7 +37,7 @@ start nodemon server:
 npm start
 
 go to directry:
-cd [Folder Name]
+> cd [Folder Name]
 
 go to previous directry:
 > cd..
