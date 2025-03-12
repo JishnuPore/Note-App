@@ -14,9 +14,9 @@ Vue
 
 Done. Now run:
 
-cd [Project Name]
-npm install
-npm run dev
+> cd [Project Name]
+> npm install
+> npm run dev
 
 Install tailwind css:
 > npm install tailwindcss @tailwindcss/vite
@@ -35,7 +35,7 @@ start nodemon server:
 npm start
 
 go to directry:
-cd folderName
+cd [Folder Name]
 
 go to previous directry:
 > cd..
